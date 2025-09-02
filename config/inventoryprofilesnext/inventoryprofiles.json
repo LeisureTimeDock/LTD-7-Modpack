@@ -1,0 +1,35 @@
+{
+    "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "highlight_foused_items_foreground": false,
+        "first_run": false
+    },
+    "AutoRefillSettings": {
+        "refill_armor": {
+            "value": false
+        },
+        "refill_before_tool_break": {
+            "value": false
+        }
+    },
+    "Hotkeys": {
+        "move_all_items": {
+            "main": {
+                "keys": "LEFT_CONTROL,LEFT_ALT,W",
+                "settings": {
+                    "order_sensitive": false
+                }
+            }
+        },
+        "throw_all_items": {
+            "main": {
+                "keys": "LEFT_CONTROL,LEFT_ALT,Q",
+                "settings": {
+                    "order_sensitive": false
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+
+[NiceNTightSettings]
+	#Enabled commands when tied
+	tiedAllowedCommands = "gamemode, gamerule, tiedArmorVisibility, clothesprotection, forge, whitelist, execute, me, utm, time, tp, weather, difficulty, give, summon, experience, say, kill, ban, kick, op, pardon, deop, norp, safeword, helpless, adjust, msg, tell, w, dc, talkArea, heal, angry, love, whisper, execute, utm, untie"
+	#Enabled commands when helpless
+	helplessAllowedCommands = "norp, safeword, me, forge, clothesprotection, tiedArmorVisibility, helpless, adjust, dc, angry, love, talkArea, msg, w, tell, whisper, utm"
+	#Allowed hosts for skins and textures
+	allowedHosts = "pasteboard.co, gcdnb.pbrd.co, booru.my-board.org, www.booru.my-board.org, imgur.com, s.namemc.com, i.imgur.com, discord.com, discordapp.net, minecraftskins.com, i.ibb.co, ibb.co, i.postimg.cc, www.minecraftskins.com, kbmc005.com, www.kbmc005.com"
+	#Warn on startup
+	warnOnStartup = false
+	#Display custom title text
+	showCustomTitleText = true
+	#Display custom title background
+	showCustomTitleBackground = true
+	#Display custom splashes
+	showCustomSplashes = true
+

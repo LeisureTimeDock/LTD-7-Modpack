@@ -1,0 +1,7 @@
+
+[general]
+	#高潮屏幕渲染配置
+	#与你的文件名对应
+	#Range: > 0
+	orgasmOverlayType = 1
+

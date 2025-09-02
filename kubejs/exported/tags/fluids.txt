@@ -1,0 +1,61 @@
+To refresh this file, delete it and run /reload command again! Last updated: Aug 19, 2025, 1:00:33 PM
+
+#forge:ender
+- thermal:ender
+
+#forge:experience
+- sophisticatedcore:xp_still
+- cofh_core:experience
+
+#forge:crude_oil
+- thermal:crude_oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- oestrus:oestrus_pools
+- oestrus:flowing_oestrus_pools
+- oestrus:oestrus_pools_plus
+- oestrus:flowing_oestrus_pools_plus
+
+#forge:redstone
+- thermal:redstone
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:glowstone
+- thermal:glowstone
+
+#forge:molten_soul_infused
+- thermal_extra:soul_infused
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#biomesoplenty:blood
+- biomesoplenty:blood
+- biomesoplenty:flowing_blood
+
+#forge:latex
+- thermal:latex
+
+#forge:molten_shellite
+- thermal_extra:shellite
+
+#forge:honey
+- cofh_core:honey
+
+#forge:creosote
+- thermal:creosote
+
+#forge:potion
+- cofh_core:potion
+
+#forge:molten_dragonsteel
+- thermal_extra:dragonsteel
+
+#forge:molten_twinite
+- thermal_extra:twinite

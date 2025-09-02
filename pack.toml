@@ -1,0 +1,13 @@
+name = "LTD-7 ModPack"
+author = "R3944Realms，LostInLinearPast"
+version = "1.0.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "60a8ff0e85ffc3590a35273aa91acd3f3912143e5937231fcaf908cf758a1d67"
+
+[versions]
+forge = "40.2.21"
+minecraft = "1.18.2"

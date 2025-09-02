@@ -1,0 +1,57 @@
+
+#Common config settings
+[common]
+	#Max level of weapons.
+	#Range: > 1
+	maxLevel = 10
+	#Should weapons remain in inventory on death.
+	keepOnDeath = true
+	#Base Damage of sword weapons.
+	#Range: > 1
+	swordDamageMin = 7
+	#Max Damage of sword weapons.
+	#Range: > 1
+	swordDamageMax = 14
+	#Base Durability of sword weapons.
+	#Range: > 1
+	swordDurabilityMin = 250
+	#Max Durability of sword weapons.
+	#Range: > 1
+	swordDurabilityMax = 2500
+	#Base Damage of rapier weapons.
+	#Range: > 1
+	rapierDamageMin = 7
+	#Max Damage of rapier weapons.
+	#Range: > 1
+	rapierDamageMax = 14
+	#Base Durability of rapier weapons.
+	#Range: > 1
+	rapierDurabilityMin = 250
+	#Max Durability of rapier weapons.
+	#Range: > 1
+	rapierDurabilityMax = 2500
+	#Base Damage of scythe weapons.
+	#Range: > 1
+	scytheDamageMin = 11
+	#Max Damage of scythe weapons.
+	#Range: > 1
+	scytheDamageMax = 17
+	#Base Durability of scythe weapons.
+	#Range: > 1
+	scytheDurabilityMin = 250
+	#Max Durability of scythe weapons.
+	#Range: > 1
+	scytheDurabilityMax = 2500
+	#Base Damage of polearm weapons.
+	#Range: > 1
+	polearmDamageMin = 12
+	#Max Damage of polearm weapons.
+	#Range: > 1
+	polearmDamageMax = 22
+	#Base Durability of polearm weapons.
+	#Range: > 1
+	polearmDurabilityMin = 250
+	#Max Durability of polearm weapons.
+	#Range: > 1
+	polearmDurabilityMax = 2500
+
